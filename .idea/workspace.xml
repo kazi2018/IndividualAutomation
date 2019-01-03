@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be641f2b-7616-4e03-be2c-2aa0ed230c76" name="Default Changelist" comment="" />
+    <list default="true" id="be641f2b-7616-4e03-be2c-2aa0ed230c76" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/alibaba.com/src/main/resources/AlibabTestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CentralHub/src/main/java/base/CentralHubClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/CentralHub/src/main/java/base/CentralHubClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba.com/src/test/java/TestAlibaba.java" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba.com/src/test/java/TestAlibaba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba.com/target/test-classes/TestAlibaba.class" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba.com/target/test-classes/TestAlibaba.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/CentralHub/target/" />
@@ -32,14 +38,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CentralHub/src/main/java/base/CentralHubClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+            <state relative-caret-position="153">
+              <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/alibaba.com/src/main/resources/AlibabTestRunner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -53,11 +68,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alibaba.com/src/test/java/TestAlibaba.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+            <state relative-caret-position="187">
+              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -74,6 +89,14 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\soin1\AutomationProjectPNT\Alibaba\alibaba.com\src\main\resources</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -83,8 +106,9 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/CentralHub/pom.xml" />
         <option value="$PROJECT_DIR$/alibaba.com/pom.xml" />
-        <option value="$PROJECT_DIR$/CentralHub/src/main/java/base/CentralHubClass.java" />
         <option value="$PROJECT_DIR$/alibaba.com/src/test/java/TestAlibaba.java" />
+        <option value="$PROJECT_DIR$/CentralHub/src/main/java/base/CentralHubClass.java" />
+        <option value="$PROJECT_DIR$/alibaba.com/src/main/resources/AlibabTestRunner.xml" />
       </list>
     </option>
   </component>
@@ -146,12 +170,98 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Alibaba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Alibaba" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Alibaba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="alibaba.com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Alibaba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="alibaba.com" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Alibaba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="alibaba.com" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Alibaba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="alibaba.com" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Alibaba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="alibaba.com" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Alibaba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="alibaba.com" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Alibaba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="CentralHub" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Alibaba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="CentralHub" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Alibaba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="CentralHub" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Alibaba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="CentralHub" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Alibaba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="CentralHub" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546493727126" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546495945502" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -251,9 +361,25 @@
     <history-entry file="TestAlibaba_test1 - 2019.01.03 at 00h 30m 25s.xml">
       <configuration name="TestAlibaba.test1" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="TestAlibaba_test1 - 2019.01.03 at 00h 43m 55s.xml">
+      <configuration name="TestAlibaba.test1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestAlibaba_test1 - 2019.01.03 at 00h 45m 44s.xml">
+      <configuration name="TestAlibaba.test1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestAlibaba_test1 - 2019.01.03 at 00h 46m 22s.xml">
+      <configuration name="TestAlibaba.test1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestAlibaba_test1 - 2019.01.03 at 00h 48m 51s.xml">
+      <configuration name="TestAlibaba.test1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestAlibaba_test1 - 2019.01.03 at 00h 49m 37s.xml">
+      <configuration name="TestAlibaba.test1" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -268,7 +394,7 @@
       <window_info anchor="bottom" id="Terminal" weight="0.3289689" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -310,20 +436,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CentralHub/src/main/java/base/CentralHubClass.java">
+    <entry file="file://$PROJECT_DIR$/alibaba.com/src/test/java/TestAlibaba.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        <state relative-caret-position="187">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/alibaba.com/src/test/java/TestAlibaba.java">
+    <entry file="file://$PROJECT_DIR$/alibaba.com/src/main/resources/AlibabTestRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+        <state relative-caret-position="255">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CentralHub/src/main/java/base/CentralHubClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
